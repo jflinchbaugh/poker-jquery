@@ -1,0 +1,23 @@
+.card {
+    display: inline-block;
+    width: 25vw;
+    font-size: 10vmin;
+    border: 1px solid black;
+    #padding: 0.25em;
+    margin: 0.5vh;
+    background: lightblue;
+}
+
+.show {
+    border: 1px solid black;
+    background: lightblue;
+    font-size: 55vmin;
+    margin: auto;
+    padding: 0.25em;
+    display: inline-block;
+}
+
+body {
+    text-align: center;
+    height: 100vh;
+}
